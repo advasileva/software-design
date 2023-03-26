@@ -1,2 +1,13 @@
 # software-design
-Yet another homework
+
+Run in the terminal:
+
+```bash
+make -B server
+```
+
+and for each client in new terminal:
+
+```bash
+make -B client
+```
